@@ -1,5 +1,6 @@
 """
 CPE106L_B1_3Q2122 Problem 3
+Author: Neil Ade Martinez
 Filename: generator_modified.py
 Program Description: Generates random sentences from four text files.
 """
