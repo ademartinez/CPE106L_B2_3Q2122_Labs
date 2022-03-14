@@ -1,5 +1,6 @@
 """
 CPE106L_B1_3Q2122 Problem 1
+Author: Neil Ade Martinez
 Filename: stats.py
 Program Description: Calculates mode, median, and mean from a list.
 """
