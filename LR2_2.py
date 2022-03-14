@@ -1,5 +1,6 @@
 """
 CPE106L_B1_3Q2122 Problem 2
+Author: Neil Ade Martinez
 Filename: LR2_2.py
 Program Description: Prints the contents of a specific line from a text file.
 """
