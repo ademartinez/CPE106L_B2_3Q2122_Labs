@@ -1,0 +1,15 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>310</x><y>160</y><w>210</w><h>190</h></coordinates><panel_attributes>Student
+--
+-name: string
+-grade: int [ ]
+--
++ Student(string n, int s[]):
++ setName(string n): void
++ setScore(int pos, int val): void
++ getName(): string
++ getScore(): int
++__eq__(): string
++__lt__(): string
++__ge__(): string
+
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
