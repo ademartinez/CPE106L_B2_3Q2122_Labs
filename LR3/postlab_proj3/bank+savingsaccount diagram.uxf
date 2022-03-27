@@ -1,0 +1,23 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>430</x><y>260</y><w>200</w><h>160</h></coordinates><panel_attributes>Bank
+--
+-accounts: {}
+-fileName: string
+--
++ bank(a{}, string f)
++ makeKey(string, int): string
++ remove(string, int): void
++ get(string, int): void
++ computeInterest(): float
++ getKeys(): list</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>470</y><w>200</w><h>190</h></coordinates><panel_attributes>SavingsAccount
+--
+-name: string
+-pin: int
+-balance: float
+--
++ account(string n, int p, float b)
++ getBalance(): float
++ getName(): string
++ getPin(): int
++ deposit(float): void
++ withdraw(float): void
++ computeInterest(): float</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>410</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;60;10;10</additional_attributes></element></diagram>
