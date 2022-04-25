@@ -1,7 +1,7 @@
 """
 CPE106L-B2-GROUP7
 Filename: bank.py
-Program Description: 
+Program Description: The program 
 """
 
 import numpy as np
