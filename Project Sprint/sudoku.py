@@ -144,7 +144,7 @@ def Solve_Sudoku(board,not_check):
 #Inputs difficulty and initializes playing board
 
 def main():
-    ch=int(input("Hello!Choose the level of difficulty-\n1.Easy\n2.Medium\n3.Hard\nYour choice:"))
+    ch=int(input("Hello! Choose the level of difficulty by typing its number-\n1.Easy\n2.Medium\n3.Hard\nYour choice:"))
     if ch==1:
         difficulty="Easy"
     elif ch==2:
