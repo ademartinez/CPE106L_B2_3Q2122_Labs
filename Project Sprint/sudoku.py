@@ -24,7 +24,7 @@ def Print_Board(board):
             print("\n---------------------",end='')
         print()
 
-#This function finds an empty cell
+#This function finds an empty cell in a 9 x 9 grid
 
 def Find_Empty_Cell(board):
     for i in range(9):
