@@ -1,3 +1,8 @@
+"""
+CPE106L-B2-GROUP7
+Filename: bank.py
+Program Description: 
+"""
 
 import numpy as np
 import random
