@@ -2,7 +2,7 @@
 import numpy as np
 import random
 
-#Prints the ndarray in format so it is readable(a bit at least)
+#Prints the ndarray in format so it is readable
 
 def Print_Board(board):
     for i in range(9):
@@ -19,7 +19,7 @@ def Print_Board(board):
             print("\n---------------------",end='')
         print()
 
-#This function finds...well...an empty cell
+#This function finds an empty cell
 
 def Find_Empty_Cell(board):
     for i in range(9):
