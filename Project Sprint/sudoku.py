@@ -1,6 +1,6 @@
 """
 CPE106L-B2-GROUP7
-Filename: bank.py
+Filename: sudoku.py
 Program Description: The program enables the user to play Sudoku with chosen difficulty.
 """
 
