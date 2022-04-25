@@ -1,7 +1,7 @@
 """
 CPE106L-B2-GROUP7
 Filename: bank.py
-Program Description: The program 
+Program Description: The program enables the user to play Sudoku with chosen difficulty.
 """
 
 import numpy as np
